@@ -1,10 +1,10 @@
-	CPSC 386-01
+CPSC 386-01
 Project #3: Simple New VG in Pygame
 Team Name: CNT
 Team Members:
-Anna Nicole Tupas, anicole_tupas@csu.fullerton.edu, CWID 890827272
-Elizabeth Nguyen, syaora@csu.fullerton.edu, CWID 893150359
-Kristi Chang, kristi.chang@csu.fullerton.edu, CWID 891162851
+Anna Nicole Tupas, anicole_tupas@csu.fullerton.edu
+Elizabeth Nguyen, syaora@csu.fullerton.edu
+Kristi Chang, kristi.chang@csu.fullerton.edu
 
 External sources: 
 
